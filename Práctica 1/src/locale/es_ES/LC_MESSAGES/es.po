@@ -1,0 +1,40 @@
+# Spanish translations for ipm package.
+# Copyright (C) 2023 THE ipm'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the ipm package.
+# Ana <ana.banobre@udc.es>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ipm 2324-p1-grupo_25\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-26 18:43+0200\n"
+"PO-Revision-Date: 2023-10-26 18:43+0200\n"
+"Last-Translator: Ana <ana.banobre@udc.es>\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+
+#: controller.py:45
+msgid "<span size=\"large\"><i>Muddle mint leaves with sugar and lime juice. Add a splash of soda water and fill the glass with cracked ice. Pour the rum and top with soda water. Garnish and serve with straw.</i></span>"
+msgstr "<span size=\"large\"><i>Machacar las hojas de menta con azucar y jugo de lima. Anade un chorrito de agua con gas y llena el vaso con hielo picado. Vierte el ron y cubre con agua con gas. Adorna y sirve con pajita.</i></span>"
+
+msgid "<span size=\"large\"><i>Rub the rim of the glass with the lime slice to make the salt stick to it. Take care to moisten only the outer rim and sprinkle the salt on it. The salt should present to the lips of the imbiber and never mix into the cocktail. Shake the other ingredients with ice, then carefully pour into the glass.</i></span>"
+msgstr "<span size=\"large\"><i>Frota el borde del vaso con la rodaja de lima para que la sal se adhiera. Cuida de humedecer solo el borde exterior y espolvorea sal sobre el. La sal debe llegar a los labios del bebedor y nunca mezclarse con el coctel. Agita los demas ingredientes con hielo y luego vierte con cuidado en el vaso.</i></span>"
+
+msgid "<span size=\"large\">Highball glass</span>"
+msgstr "<span size=\"large\">Vaso alto</span>"
+
+msgid "<span size=\"large\">Cocktail glass</span>"
+msgstr "<span size=\"large\">Copa de coctel</span>"
+
+#: controller.py:37
+msgid "Not valid"
+msgstr "No válido"
+
+#: controller.py:61
+msgid "ERROR: The cocktail searched does not exist"
+msgstr "ERROR: El cocktail buscado no existe"
